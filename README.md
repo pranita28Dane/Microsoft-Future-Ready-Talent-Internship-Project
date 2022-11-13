@@ -15,3 +15,5 @@ This is the medical system that manages hospital activities. New patients can us
 
 ### Primary Azure Technology :
 App Service, Static Web Apps, Visual Studio Code,
+
+<img src="https://github.com/pranita28Dane/Microsoft-Future-Ready-Talent-Internship-Project/blob/master/FRT.jpeg" width="700" height= "350">
