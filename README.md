@@ -4,6 +4,8 @@ Future Ready Talent is a virtual internship platform for students with an opport
 
 Web Technologies used: HTML, CSS, JS, Bootstrap
 
+ Video Demo = https://www.loom.com/share/d385b0c2eff3422daafe1949f2e06501
+
 ### Industry :  
 Health
 
