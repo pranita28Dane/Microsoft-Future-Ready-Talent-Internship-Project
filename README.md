@@ -2,7 +2,7 @@
 
 Future Ready Talent is a virtual internship platform for students with an opportunity to learn the in-demand technology skills and work towards solving real world problem using the power of Microsoft Azure & GitHub tools. The internship is provided in affiliation with Microsoft, EY, GitHub, FutureSkills Prime, and Quess.
 
-Web Technologies used: HTML, CSS, JS, Bootstrap
+Web Technologies used: HTML, CSS, JS.
 
 project Demo = https://pranita28dane.github.io/Microsoft-Future-Ready-Talent-Internship-Project/
 
