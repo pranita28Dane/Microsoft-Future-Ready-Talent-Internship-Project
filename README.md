@@ -10,7 +10,7 @@ project Demo = https://pranita28dane.github.io/Microsoft-Future-Ready-Talent-Int
 Health
 
 ### Project Title :
-Health Center Hospital
+Health Care Hospital
 
 ### Problem Statement/Opportunity :
 Today, because of the pandemic, the number of patients in hospitals has increased a lot and you have to wait a long time for a test. Selecting the right drug for the type of disease becomes difficult and often takes time and makes the patient or customer wait. Therefore, the waiting time of customers is wasted.
