@@ -6,7 +6,7 @@ Web Technologies used: HTML, CSS, JS, Bootstrap
 
  Video Demo = https://www.loom.com/share/d385b0c2eff3422daafe1949f2e06501
  
-project Demo = https://green-pond-04fb93d10.2.azurestaticapps.net/
+project Demo = https://pranita28dane.github.io/Microsoft-Future-Ready-Talent-Internship-Project/
 
 ### Industry :  
 Health
